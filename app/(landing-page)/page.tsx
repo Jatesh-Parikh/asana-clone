@@ -4,6 +4,10 @@ import SecondSection from "./SecondSection/page";
 import ThirdSection from "./ThirdSection/page";
 import FourthSection from "./FourthSection/page";
 import FifthSection from "./FifthSection/page";
+import SixthSection from "./SixthSection/page";
+import SeventhSection from "./SeventhSection/page";
+import EighthSection from "./EighthSection/page";
+import Footer from "./Footer/page";
 
 const LandingPage = () => {
   return (
@@ -14,6 +18,10 @@ const LandingPage = () => {
       <ThirdSection />
       <FourthSection />
       <FifthSection />
+      <SixthSection />
+      <SeventhSection />
+      <EighthSection />
+      <Footer />
     </div>
   );
 };
