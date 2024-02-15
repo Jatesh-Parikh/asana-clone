@@ -1,5 +1,7 @@
 ## Asana Clone using Next JS, React, Tailwind CSS, and Framer Motion
+
 ![Asana hero section](./asana.png)
+
 Thanks to [Igor Codes](https://github.com/iggy-tech)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
